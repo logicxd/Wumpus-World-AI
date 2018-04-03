@@ -1,5 +1,6 @@
 # Wumpus World AI
 2nd highest scoring AI bot for a class tournament that aims to find the gold and escape the Wumpus World with the best possible score.
+
 ![SamplePlay](https://user-images.githubusercontent.com/12219300/38193601-abbc47b8-3627-11e8-9d66-282ba2bccc05.gif)
 
 Map Info:
@@ -20,4 +21,4 @@ The performance measure of an agent is an integer score calculated based on the 
 
 The game ends either when the agent dies, when the agent climbs out of the cave, or when the agent’s score goes below -1000.
 
-Score of 283.87 was averaged over 10,000 randomly generated worlds that are 4x4 to 7x7, with each square having a 20% chance of pit appearing.
+Score of **283.87** was averaged over 10,000 randomly generated worlds that are 4x4 to 7x7, with each square having a 20% chance of pit appearing.
