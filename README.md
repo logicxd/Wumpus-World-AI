@@ -1,7 +1,7 @@
 # Wumpus World AI
 2nd highest scoring AI bot for a class tournament that aims to find the gold and escape the Wumpus World with the best possible score.
 
-![SamplePlay](https://user-images.githubusercontent.com/12219300/38193601-abbc47b8-3627-11e8-9d66-282ba2bccc05.gif)
+![SamplePlay](https://user-images.githubusercontent.com/12219300/43704635-2a78d7ba-9915-11e8-8e92-1e986916740b.gif)
 
 Map Info:
 * B = Breeze
